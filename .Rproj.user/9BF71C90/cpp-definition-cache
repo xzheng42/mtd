@@ -1,1 +1,140 @@
-[]
+[
+    {
+        "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/mc.cpp",
+        "file_last_write": 1630449560.0,
+        "definitions": [
+            {
+                "usr": "c:@F@dCondBiPois#&1I#S0_#&1d#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "dCondBiPois(const int &, const int &, const double &, const double &, const double &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/mc.cpp",
+                "line": 11,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pCondBiPois#&1I#S0_#&1d#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pCondBiPois(const int &, const int &, const double &, const double &, const double &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/mc.cpp",
+                "line": 37,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@pPMTD#&1I#&1$@N@arma@S@Col>#I#&1$@N@arma@S@Col>#d#&1d#S5_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pPMTD(const int &, const arma::Col<int> &, const arma::colvec &, const double &, const double &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/mc.cpp",
+                "line": 54,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@rqrPMTD#&1$@N@arma@S@Col>#I#&1$@N@arma@S@Mat>#d#&1$@N@arma@S@Col>#d#S4_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rqrPMTD(const arma::Col<int> &, const arma::mat &, const arma::colvec &, const arma::colvec &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/mc.cpp",
+                "line": 72,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@pLMTD#&1d#&1$@N@arma@S@Col>#d#S1_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "pLMTD(const double &, const arma::colvec &, const arma::colvec &, const double &, const double &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/mc.cpp",
+                "line": 111,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@rqrRegLMTD#&1$@N@arma@S@Col>#d#&1$@N@arma@S@Mat>#d#S2_#S2_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rqrRegLMTD(const arma::colvec &, const arma::mat &, const arma::mat &, const arma::mat &, const arma::colvec &, const arma::colvec &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/mc.cpp",
+                "line": 129,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/updates-preds.cpp",
+        "file_last_write": 1630609065.0,
+        "definitions": [
+            {
+                "usr": "c:@F@updatePMTDut#&1$@N@arma@S@Col>#d#S0_#S0_#&1d#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updatePMTDut(const arma::colvec &, const arma::colvec &, const arma::colvec &, const double &, const double &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/updates-preds.cpp",
+                "line": 13,
+                "column": 14
+            },
+            {
+                "usr": "c:@F@updateNBMTDut#&1$@N@arma@S@Col>#d#S0_#S0_#&1d#S2_#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updateNBMTDut(const arma::colvec &, const arma::colvec &, const arma::colvec &, const double &, const double &, const double &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/updates-preds.cpp",
+                "line": 59,
+                "column": 14
+            },
+            {
+                "usr": "c:@F@updateGMTDlabel#&1$@N@arma@S@Col>#d#&1$@N@arma@S@Mat>#d#&1I#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updateGMTDlabel(const arma::colvec &, const arma::mat &, const int &, const arma::colvec &, const arma::colvec &, const arma::colvec &, const arma::colvec &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/updates-preds.cpp",
+                "line": 102,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@updatePMTDlabel#&1$@N@arma@S@Col>#d#&1$@N@arma@S@Mat>#d#&1I#S0_#&1d#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updatePMTDlabel(const arma::colvec &, const arma::mat &, const int &, const arma::colvec &, const double &, const arma::colvec &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/updates-preds.cpp",
+                "line": 137,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@updateNBMTDlabel#&1$@N@arma@S@Col>#d#&1$@N@arma@S@Mat>#d#&1I#S0_#&1d#S0_#S5_#S5_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updateNBMTDlabel(const arma::colvec &, const arma::mat &, const int &, const arma::colvec &, const double &, const arma::colvec &, const double &, const double &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/updates-preds.cpp",
+                "line": 172,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@updateLMTDlabel#&1$@N@arma@S@Col>#d#&1$@N@arma@S@Mat>#d#&1I#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "updateLMTDlabel(const arma::colvec &, const arma::mat &, const int &, const arma::colvec &, const arma::colvec &, const arma::colvec &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/updates-preds.cpp",
+                "line": 210,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@predPMTD#&1I#&1$@N@arma@S@Mat>#d#S1_#&1$@N@arma@S@Col>#d#S3_#S3_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "predPMTD(const int &, const arma::mat &, const arma::mat &, const arma::colvec &, const arma::colvec &, const arma::colvec &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/updates-preds.cpp",
+                "line": 242,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@predNBMTD#&1I#&1$@N@arma@S@Mat>#d#S1_#&1$@N@arma@S@Col>#d#S3_#S3_#S3_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "predNBMTD(const int &, const arma::mat &, const arma::mat &, const arma::colvec &, const arma::colvec &, const arma::colvec &, const arma::colvec &)",
+                "file": "/Users/chris/Desktop/MyResearch/Publications/packages/mtd/src/updates-preds.cpp",
+                "line": 283,
+                "column": 11
+            }
+        ]
+    }
+]

@@ -115,7 +115,7 @@ legend("topleft", inset = c(0, -0.15), legend = c("observation", "95% predictive
 
 ### More examples
 
-R code for more examples are provided here.
+R code for more examples can be found in https://github.com/xzheng42/mtd-examples.
 
 ## Reference
 Zheng, X., Kottas, A., and Sansó, B. (2021),

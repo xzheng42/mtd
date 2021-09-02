@@ -14,7 +14,7 @@ implementation of a class of stationary mixture transition distribution
 
 ## Installation
 
-You can install the package with devtools
+You can install the package with devtools.
 
 ``` r
 devtools::install_github("xzheng42/mtd")
@@ -113,7 +113,8 @@ legend("topleft", inset = c(0, -0.15), legend = c("observation", "95% predictive
 
 ### More examples
 
-R code for more examples are provided here.
+R code for more examples can be found in
+<https://github.com/xzheng42/mtd-examples>.
 
 ## Reference
 
