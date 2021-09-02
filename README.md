@@ -4,9 +4,11 @@
 # mtd
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/xzheng42/mtd/workflows/R-CMD-check/badge.svg)](https://github.com/xzheng42/mtd/actions)
 <!-- badges: end -->
 
-The aim of the `mtd` (developer’s version) is to facilitate the
+The aim of `mtd` (developer’s version) is to facilitate the
 implementation of a class of stationary mixture transition distribution
 (MTD) models for non-Gaussian time series data.
 
@@ -25,7 +27,7 @@ simulation, model fitting, model checking and model prediction.
 
 ### Model simulation
 
--   `rMTD` generates a time series from an MTD model with a
+-   `rMTD` simulates a time series from an MTD model with a
     pre-specified stationary marginal distribution.
 
 ### Model fitting

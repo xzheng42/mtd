@@ -18,14 +18,15 @@ knitr::opts_chunk$set(fig.width = 10, fig.height = 4, fig.align = 'center')
 # mtd
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/xzheng42/mtd/workflows/R-CMD-check/badge.svg)](https://github.com/xzheng42/mtd/actions)
 <!-- badges: end -->
 
-The aim of the `mtd` (developer's version) is to facilitate the implementation of a class of stationary 
+The aim of `mtd` (developer's version) is to facilitate the implementation of a class of stationary 
 mixture transition distribution (MTD) models for non-Gaussian time series data. 
 
 ## Installation
 
-You can install the package with devtools
+You can install the package with devtools.
 
 ``` r
 devtools::install_github("xzheng42/mtd")
