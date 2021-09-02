@@ -1,0 +1,30 @@
+#' mtd: a package for fitting univariate non-Gaussian time series 
+#' using mixture transition distribution (MTD) models
+#' 
+#' The mtd package provides four categories of functions:
+#' model simulation, model fitting, model checking and model prediction.
+#' 
+#' @section Model simulation:
+#' The \code{\link{rMTD}} function simulates data from an MTD model with a 
+#' pre-specified stationary marginal distribution.
+#' 
+#' @section Model fitting:
+#' The \code{\link{tsMTD}} function fits an MTD model with a 
+#' pre-specified stationary marginal distribution. \cr
+#' The \code{\link{tsRegMTD}} function fits an regression MTD model with a
+#' pre-specified stationary marginal distribution.
+#' 
+#' @section Model checking:
+#' The \code{\link{rqrMTD}} function performs model checking for the MTD
+#' model based on randomized quantile residuals.
+#' 
+#' @section Model prediction:
+#' The \code{\link{predMTD}} function generates one-step ahead posterior
+#' predictive distributions.
+#' 
+#' @docType package
+#' @name mtd
+#' @useDynLib mtd, .registration=TRUE
+#' @importFrom Rcpp evalCpp
+NULL
+#> NULL
