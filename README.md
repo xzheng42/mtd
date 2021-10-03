@@ -120,4 +120,6 @@ R code for more examples can be found in
 
 Zheng, X., Kottas, A., and Sansó, B. (2021), “On Construction and
 Estimation of Stationary Mixture Transition Distribution Models,”
-[*arXiv:2010.12696*](https://arxiv.org/abs/2010.12696).
+*Journal of Computational and Graphical Statistics*.
+[journal](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1981342)
+[arXiv](https://arxiv.org/abs/2010.12696).
